@@ -1,5 +1,7 @@
 # hello-world
-Tutorial project
+
+* by @sparky-r
+* Tutorial project
 
 ## Introduction
 
